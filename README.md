@@ -17,16 +17,14 @@ Users can input clinical data, and the system returns predictions with high accu
 
 #### 🛠️ Technologies Used
 
-**Technology	Description**
-
-🐍 Python	Programming language for backend development
+🐍 **Python	Programming language for backend development
 ⚡ FastAPI	High-performance web framework for APIs
 📊 Scikit-learn	Machine learning library for model training
 🧮 Pandas	Data manipulation and analysis library
 🖌️ Jinja2	Templating engine for dynamic HTML rendering
-💾 Joblib	Serialization library for saving models
-🚀 How to Run
+💾 Joblib	Serialization library for saving models**
 
+🚀 How to Run
 Clone the repository:
 ```sh
 bash
