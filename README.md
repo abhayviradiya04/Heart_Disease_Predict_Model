@@ -15,9 +15,10 @@ Users can input clinical data, and the system returns predictions with high accu
 
 🔌 **Scalable APIs:** API endpoints designed for seamless communication between front-end and back-end.​
 
-### 🛠️ Technologies Used
+#### 🛠️ Technologies Used
 
 **Technology	Description**
+
 🐍 Python	Programming language for backend development
 ⚡ FastAPI	High-performance web framework for APIs
 📊 Scikit-learn	Machine learning library for model training
@@ -27,7 +28,7 @@ Users can input clinical data, and the system returns predictions with high accu
 🚀 How to Run
 
 Clone the repository:
-
+```sh
 bash
 Copy
 Edit
